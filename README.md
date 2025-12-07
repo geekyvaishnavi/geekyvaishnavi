@@ -10,7 +10,7 @@
   <h3>🚀 Full Stack Developer &nbsp;|&nbsp; 🧩 Problem Solver &nbsp;|&nbsp; 🤖 Exploring ML</h3>
   <br/>
 
-  <a href="https://YOUR-PORTFOLIO-LINK-HERE.com" target="_blank">
+  <a href="https://geekyvaishnavi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-C71585?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
   </a>
 

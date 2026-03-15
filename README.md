@@ -10,9 +10,6 @@
 
 <br/>
 
-<p>
-Full Stack Developer • Problem Solver • ML Explorer
-</p>
 
 <a href="https://geekyvaishnavi.online">
 <img src="https://img.shields.io/badge/Portfolio-geekyvaishnavi.online-F706CF?style=for-the-badge&logo=google-chrome&logoColor=white"/>

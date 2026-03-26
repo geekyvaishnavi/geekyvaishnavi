@@ -91,15 +91,7 @@
 
 ---
 
-# 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=geekyvaishnavi&theme=radical&no-frame=true&margin-w=10" />
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
